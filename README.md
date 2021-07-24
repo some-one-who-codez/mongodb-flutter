@@ -1,6 +1,6 @@
-# mongo
+# MongoDB with Flutter
 
-A new Flutter project.
+A new Flutter project showing you an example app with MongoDB backend.
 
 ## Getting Started
 
