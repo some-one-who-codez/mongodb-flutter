@@ -1,6 +1,8 @@
 # MongoDB with Flutter
 
-A new Flutter project showing you an example app with MongoDB backend.
+A new Flutter project showing you an example app with MongoDB backend. This goes over all aspects of CRUD (Create Read Update Delete)
+
+Click [here](https://www.instagram.com/p/CRwL2xmDWV2/) to find a full explanation
 
 ## Getting Started
 

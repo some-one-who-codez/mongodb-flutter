@@ -2,8 +2,6 @@ import 'dart:math';
 import 'package:mongo_dart/mongo_dart.dart' as mongo;
 import 'package:flutter/material.dart';
 import 'package:mongo/database/database.dart';
-// import 'package:mongo_dart/mongo_dart.dart' as mongo;
-// import 'keys/keys.dart' as keys;
 
 void main() async {
   await Database.connect();
